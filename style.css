@@ -47,7 +47,6 @@ img{
     box-shadow: 1px 1px 0;
     position: relative;
 }
-
 .btn:active{
     box-shadow: none;
     top: 1px;
